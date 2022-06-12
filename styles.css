@@ -73,6 +73,12 @@ a {
   color: white;
   
 }
+.work{
+  color: var(--text-color);
+}
+.work:hover{
+  color: rgb(20, 133, 186);
+}
 
 img {
   max-width: 100%;
@@ -211,7 +217,7 @@ img {
 }
 
 .bio1 {
-  color: #0d0d0d;
+  
   text-align: center;
   
   
@@ -222,12 +228,6 @@ img {
   
   font-size: var(--normal-font-size);
   margin-bottom: .25rem;
-}
-.work{
-  color: var(--text-color);
-}
-.work:hover{
-  color: rgb(20, 133, 186);
 }
 
 
